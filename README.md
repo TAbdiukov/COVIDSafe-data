@@ -11,4 +11,7 @@ Weirdly enough, GPS not required on iOS (v13),
 
 ![iPhone](pics/IMG_0923.png)
 
-2. (tba)
+
+## Host
+
+![hosts](pics/host.PNG)

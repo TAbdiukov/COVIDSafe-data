@@ -7,4 +7,8 @@ congregation of various data on COVIDSafe app
 
 ![FINE LOCATION?](pics/questions.PNG)
 
+Weirdly enough, GPS not required on iOS (v13),
+
+![iPhone](pics/IMG_0923.png)
+
 2. (tba)

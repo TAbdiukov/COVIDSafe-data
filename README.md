@@ -5,6 +5,6 @@ congregation of various data on COVIDSafe app
 
 1. The app requires access to GPS (`ACCESS_FINE_LOCATION`)
 
-![FINE LOCATION?]("pics/questions.PNG")
+![FINE LOCATION?](pics/questions.PNG)
 
 2. (tba)
